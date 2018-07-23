@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bus/bus.iml" filepath="$PROJECT_DIR$/bus/bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client1/config-client1.iml" filepath="$PROJECT_DIR$/config-client1/config-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client2/config-client2.iml" filepath="$PROJECT_DIR$/config-client2/config-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer1/customer1.iml" filepath="$PROJECT_DIR$/customer1/customer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer2/customer2.iml" filepath="$PROJECT_DIR$/customer2/customer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producterA1/producterA1.iml" filepath="$PROJECT_DIR$/producterA1/producterA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producterA2/producterA2.iml" filepath="$PROJECT_DIR$/producterA2/producterA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/producterB1/producterB1.iml" filepath="$PROJECT_DIR$/producterB1/producterB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry1/registry1.iml" filepath="$PROJECT_DIR$/registry1/registry1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry2/registry2.iml" filepath="$PROJECT_DIR$/registry2/registry2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-book.iml" filepath="$PROJECT_DIR$/spring-book.iml" />
+    </modules>
+  </component>
+</project>

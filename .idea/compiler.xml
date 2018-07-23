@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bus" />
+        <module name="config (2)" />
+        <module name="config-client1" />
+        <module name="config-client2" />
+        <module name="config-server" />
+        <module name="customer" />
+        <module name="customer1" />
+        <module name="customer2" />
+        <module name="eureka" />
+        <module name="gateway" />
+        <module name="product" />
+        <module name="product1" />
+        <module name="product2" />
+        <module name="producter2" />
+        <module name="producterA1" />
+        <module name="producterA2" />
+        <module name="producterB1" />
+        <module name="registry1" />
+        <module name="registry2" />
+      </profile>
+      <profile name="Annotation profile for spring-boot-parent" enabled="true">
+        <sourceOutputDir name="../config/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../config/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config (1)" />
+      </profile>
+      <profile name="Annotation profile for registry" enabled="true">
+        <sourceOutputDir name="../registry1/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../registry1/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="registry" />
+      </profile>
+      <profile name="Annotation profile for config" enabled="true">
+        <sourceOutputDir name="../config-client1/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../config-client1/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bus" target="1.8" />
+      <module name="config" target="1.8" />
+      <module name="config (1)" target="1.8" />
+      <module name="config (2)" target="1.8" />
+      <module name="config-client1" target="1.8" />
+      <module name="config-client2" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="customer" target="1.8" />
+      <module name="customer1" target="1.8" />
+      <module name="customer2" target="1.8" />
+      <module name="eureka" target="1.8" />
+      <module name="gateway" target="1.8" />
+      <module name="groovy" target="1.8" />
+      <module name="product" target="1.8" />
+      <module name="product1" target="1.8" />
+      <module name="product2" target="1.8" />
+      <module name="producter2" target="1.8" />
+      <module name="producterA1" target="1.8" />
+      <module name="producterA2" target="1.8" />
+      <module name="producterB1" target="1.8" />
+      <module name="registry" target="1.8" />
+      <module name="registry1" target="1.8" />
+      <module name="registry2" target="1.8" />
+      <module name="spring-book" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
